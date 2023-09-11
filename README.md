@@ -11,3 +11,5 @@
 🌍 My life interests are cinema, assembling computers, visiting new places
 
 📩 You can contact me via Telegram: @TemaMays
+
+[![Top Langs](https://github.com/anuraghazra/github-readme-stats(https://github.com/TemaI1?tab=repositories)https://github.com/TemaI1?tab=repositories)
