@@ -12,4 +12,4 @@
 
 📩 You can contact me via Telegram: @TemaMays
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemaI1&hide=python)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemaI1&hide=python)
