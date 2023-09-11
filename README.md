@@ -13,3 +13,4 @@
 📩 You can contact me via Telegram: @TemaMays
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemaI1&hide=python)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TemaI1&langs_count=5&theme=tokyonight)
