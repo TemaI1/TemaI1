@@ -12,4 +12,4 @@
 
 📩 You can contact me via Telegram: @TemaMays
 
-[![Top Langs](https://github.com/anuraghazra/github-readme-stats(https://github.com/TemaI1?tab=repositories)https://github.com/TemaI1?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemaI1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
