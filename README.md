@@ -1,5 +1,6 @@
 <h1 align="left">Hi there, I'm <a href="https://github.com/TemaI1">Artem</a>
 
+### About
 
 * 💻 I am interested in the IT field in many directions, always looking for new knowledge
 
