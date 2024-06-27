@@ -6,7 +6,7 @@
 
 * 📖 Graduated from college and the Institute of Information Technology
 
-* 📝 Currently I am doing frontend development
+* 📝 I am currently developing on Bitrix using JS and PHP
 
 * 🌍 My life interests are cinema, assembling computers, visiting new places
 
